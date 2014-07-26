@@ -15,10 +15,14 @@ dummy
 /src/
 lib/
 include/
-bin/
 local/
 lib64
 *.pyc
 local_settings.py
 django-project/.Python
 django-project/src
+ 
+/.vagrant/
+/packages/*.deb
+/packages/*.tar.gz
+
